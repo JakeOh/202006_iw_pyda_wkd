@@ -1,1 +1,1 @@
-# 202006_iw_pyda_wkd
+# 2020/06 Python for Data Analysis (Weekend)
